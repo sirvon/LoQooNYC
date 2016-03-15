@@ -9,43 +9,7 @@
 				"country": "USA",
 				"street": "fordham rd",
 				"gov_website": "http://www.fordhamroadbid.org",
-				"location": [-73.895330,40.862457],
-				"merchants":[
-					{
-							"id": "fgfgfg",
-							"type":"fgfgfgf",
-							"hashtags": ["#shoes"],
-							"name": "4 Ever Shoes",
-							"verified": "fgfgfgfg",
-							"street_address": "10 East Fordham Road",
-							"location": [-73.900754,40.862483],
-							"phNumber": ["718-220-1313","718-561-1662"],
-							"twitterHandle": "fgfgfgfgfgf",
-							"igHandle": "gfgfgfg",
-							"fbHandle": "fffffffff",
-							"snapcHandle": "fffff",
-							"soundcHandle": "",
-							"spotifyHandle": "fgfgf",
-							"website": "fgf"
-					},
-					{
-						"id": "gfgf",
-						"type":"ss",
-						"hashtags": ["#americaneagle","#ae"],
-						"name": "American Eagle Outfitters",
-						"verified": "dd",
-						"street_address": "256 East Fordham Road",
-						"phNumber": ["718-364-4361"],
-						"location": [-73.895490,40.861965],
-						"twitterHandle": "ss",
-						"igHandle": "dd",
-						"fbHandle": "ss",
-						"snapcHandle": "dd",
-						"soundcHandle": "ff",
-						"spotifyHandle": "gg",
-						"website": "www.ae.com"
-					}
-				]
+				"location": [-73.895330,40.862457]
 			},
 			{
 				"id": "jt",
