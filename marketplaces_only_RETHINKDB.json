@@ -1,6 +1,4 @@
 {
-	"data": {
-		"marketplaces": [
 			{
 				"id": "fgfgfg",
 				"name": "fordham rd mall",
@@ -11,6 +9,5 @@
 				"gov_website": "http://www.fordhamroadbid.org"
 
 			}
-		]
-	}
+
 }
