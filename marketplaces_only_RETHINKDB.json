@@ -1,113 +1,86 @@
 {
-			"marketplaces":[
-				{
-				"id": "",
-				"name": "fordham rd mall",
-				"city": "bronx",
-				"state": "NY",
-				"country": "USA",
-				"street": "fordham rd",
-				"gov_website": "http://www.fordhamroadbid.org",
-				"location": [-73.895330,40.862457],
-				"merchants":
-					{
-							"id": "",
-							"id": "",
-							"id": "",
-							"id": "",
-							"id": ""
-					}
+	"marketplaces": [{
+		"id": "dsfdsf",
+		"name": "fordham rd mall",
+		"city": "bronx",
+		"state": "NY",
+		"country": "USA",
+		"street": "fordham rd",
+		"gov_website": "http://www.fordhamroadbid.org",
+		"location": [-73.895330, 40.862457],
+		"merchants": {
+			"id": "ffff"
+		}
 
-			},
-			{
-				"id": "",
-				"name": "3rd ave hub",
-				"city": "bronx",
-				"state": "NY",
-				"country": "USA",
-				"street": "3rd ave",
-				"gov_website": "http://hub3rdavebid.com",
-				"location": [-73.916421,40.817144],
-				"merchants": [
-					{
-							"id": ""
-						},
-						{
-								"id": ""
-							},
-							{
-									"id": ""
-								}
-			]
-		},
-			{
-				"id": "",
-				"name": "stadium galleria",
-				"city": "bronx",
-				"state": "NY",
-				"country": "USA",
-				"street": "161st st",
-				"gov_website": "http://161bid.org/",
-				"location": [-73.921896,40.827181],
-				"merchants":
-					{
-							"id": "",
-							"id": "",
-							"id": "",
-							"id": "",
-							"id": ""
-					}
-			},
-			{
-				"id": "",
-				"name": "jerome-gunhill rd mall",
-				"city": "bronx",
-				"state": "NY",
-				"country": "USA",
-				"street": "gunhill rd",
-				"gov_website": "http://www.jeromegunhillbid.org",
-				"location": [-73.877113,40.880728]
-			},
-			{
-				"id": "",
-				"name": "white plains square",
-				"city": "bronx",
-				"state": "NY",
-				"country": "USA",
-				"street": "white plains rd",
-				"gov_website": "http://www.pelhamparkway.com",
-				"location": [-73.868037,40.854219]
-			},
-			{
-				"id": "",
-				"name": "little italy of the bronx",
-				"city": "bronx",
-				"state": "NY",
-				"country": "USA",
-				"street": "arthur ave",
-				"gov_website": "http://www.bronxlittleitaly.com/",
-				"location": [-73.888554,40.854860]
-			},
-			{
-				"id": "",
-				"name": "kingsbridge plaza",
-				"nborhood": ["kingsbridge"],
-				"city": "bronx",
-				"state": "NY",
-				"country": "USA",
-				"street": "kingsbridge ave",
-				"gov_website": "http://kingsbridgebid.nyc",
-				"location": [-73.895330,40.862457]
-			},
-			{
-				"id": "",
-				"name": "southern blvd mall",
-				"city": "bronx",
-				"state": "NY",
-				"country": "USA",
-				"street": "southern blvd",
-				"gov_website": "http://southernblvdbid.com",
-				"location": [-73.891581,40.823720]
-			}
-		]
+	}, {
+		"id": "dsfdsf",
+		"name": "3rd ave hub",
+		"city": "bronx",
+		"state": "NY",
+		"country": "USA",
+		"street": "3rd ave",
+		"gov_website": "http://hub3rdavebid.com",
+		"location": [-73.916421, 40.817144],
+		"merchants": [{
+			"id": "sdfsdf"
+		}]
+	}, {
+		"id": "",
+		"name": "stadium galleria",
+		"city": "bronx",
+		"state": "NY",
+		"country": "USA",
+		"street": "161st st",
+		"gov_website": "http://161bid.org/",
+		"location": [-73.921896, 40.827181],
+		"merchants": {
+			"id": "gjhgj"
+		}
+	}, {
+		"id": "5464",
+		"name": "jerome-gunhill rd mall",
+		"city": "bronx",
+		"state": "NY",
+		"country": "USA",
+		"street": "gunhill rd",
+		"gov_website": "http://www.jeromegunhillbid.org",
+		"location": [-73.877113, 40.880728]
+	}, {
+		"id": "fghfgh",
+		"name": "white plains square",
+		"city": "bronx",
+		"state": "NY",
+		"country": "USA",
+		"street": "white plains rd",
+		"gov_website": "http://www.pelhamparkway.com",
+		"location": [-73.868037, 40.854219]
+	}, {
+		"id": "fghfh",
+		"name": "little italy of the bronx",
+		"city": "bronx",
+		"state": "NY",
+		"country": "USA",
+		"street": "arthur ave",
+		"gov_website": "http://www.bronxlittleitaly.com/",
+		"location": [-73.888554, 40.854860]
+	}, {
+		"id": "fghgfh",
+		"name": "kingsbridge plaza",
+		"nborhood": ["kingsbridge"],
+		"city": "bronx",
+		"state": "NY",
+		"country": "USA",
+		"street": "kingsbridge ave",
+		"gov_website": "http://kingsbridgebid.nyc",
+		"location": [-73.895330, 40.862457]
+	}, {
+		"id": "kjlkjlkj",
+		"name": "southern blvd mall",
+		"city": "bronx",
+		"state": "NY",
+		"country": "USA",
+		"street": "southern blvd",
+		"gov_website": "http://southernblvdbid.com",
+		"location": [-73.891581, 40.823720]
+	}]
 }
