@@ -1,0 +1,30 @@
+{
+  "continent": "",
+  "name": "",
+  "city": "",
+  "state": "",
+  "country": "",
+	"marketplaces": [
+  	{
+  		"id": "",
+      "name": "",
+  		"bidNumber" "",
+      "neighborhood": "",
+  		"street": "",
+  		"gov_website": "",
+  		"location": [,],
+      "geoJSON": "",
+  		"merchants": {}
+  	},
+  		"id": "",
+  		"name": "",
+      "bidNumber" "",
+      "neighborhood": "",
+  		"street": "",
+      "geoJSON": "",
+  		"gov_website": "",
+  		"location": [,],
+  		"merchants": {}
+  	}
+ ]
+}
