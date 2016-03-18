@@ -1,0 +1,27 @@
+{
+	"marketplaces": [
+	{
+		"id": "",
+		"hemisphere": "",
+		"name": "",
+		"city": "",
+		"state": "",
+		"country": "",
+		"street": "",
+		"gov_website": "",
+		"location": [,],
+		"merchants": {},
+			{
+		"id": ",",
+		"hemisphere": "",
+		"name": ",",
+		"city": ",",
+		"state": ",",
+		"country": ",",
+		"street": ",",
+		"gov_website": ",",
+		"location": [,],
+		"merchants": {}
+	}
+ ]
+}
