@@ -3,28 +3,25 @@
   "city": "",
   "state": "",
   "country": "",
+  "utcOffset": "",
   "geometry": [],
-	"marketplaces": [
-  	{
+	"marketplaces": {
+  	"1":{
   		"id": "",
-      		"name": "",
-  		"bidNumber" "",
+		 "name": "",
+  		"bidNumber": "",
       		"neighborhood": "",
   		"street": "",
   		"gov_website": "",
-  		"location": [,],
-		"geometry": [],
-  		"merchants": {}
-  	},
-  		"id": "",
-  		"name": "",
-      		"bidNumber" "",
-      		"neighborhood": "",
-  		"street": "",
-		"geometry": [],
-  		"gov_website": "",
-  		"location": [,],
-  		"merchants": {}
-  	}
- ]
-}
+      		"location": [],
+      		"geometry": [],
+      		"merchantDocId": "",
+      		"merchantCollection": "",
+      		"featuredMerchants": [],
+      		"featuredProducts": [],
+      		"ghostBlog": "",
+      		"twitterHandle":  "",
+      		"fbHandle": ""
+  	   }
+    }
+  }
