@@ -1,0 +1,780 @@
+{
+  "merchantType": [
+    {
+      "name": "Education",
+      "id": "151676848220295"
+    },
+    {
+      "name": "Financial Services",
+      "id": "161516070564222"
+    },
+    {
+      "name": "Food & Restaurant",
+      "id": "165679780146824"
+    },
+    {
+      "name": "Lodging",
+      "id": "161811347201528"
+    },
+    {
+      "name": "Medical & Health",
+      "id": "145118935550090"
+    },
+    {
+      "name": "Pet Service",
+      "id": "144982405562750"
+    },
+    {
+      "name": "Public Places & Attractions",
+      "id": "148932728496725"
+    },
+    {
+      "name": "Religious Center",
+      "id": "139460309451166"
+    },
+    {
+      "name": "Residence",
+      "id": "192049437499122"
+    },
+    {
+      "name": "Restaurant",
+      "id": "273819889375819"
+    },
+    {
+      "name": "Spa, Beauty & Personal Care",
+      "id": "139225689474222"
+    },
+    {
+      "name": "Arts & Entertainment",
+      "id": "133436743388217"
+    },
+    {
+      "name": "Automotive",
+      "id": "180410821995109"
+    },
+    {
+      "name": "Business Services",
+      "id": "187133811318958"
+    },
+    {
+      "name": "Community & Government",
+      "id": "188662441155211"
+    },
+    {
+      "name": "Event Planning",
+      "id": "193705277324704"
+    },
+    {
+      "name": "Food & Grocery",
+      "id": "150108431712141"
+    },
+    {
+      "name": "Home Improvement",
+      "id": "108427109235243"
+    },
+    {
+      "name": "Just For Fun",
+      "id": "129417183848258"
+    },
+    {
+      "name": "Professional Services",
+      "id": "176831012360626"
+    },
+    {
+      "name": "Real Estate",
+      "id": "198327773511962"
+    },
+    {
+      "name": "Shopping & Retail",
+      "id": "200600219953504"
+    },
+    {
+      "name": "Sports & Recreation",
+      "id": "186982054657561"
+    },
+    {
+      "name": "Tours & Sightseeing",
+      "id": "124861974254366"
+    },
+    {
+      "name": "Travel & Transportation",
+      "id": "128232937246338"
+    },
+    {
+      "name": "Workplace & Office",
+      "id": "177721448951559"
+    },
+    {
+      "name": "Abortion Services",
+      "id": "165156546872599"
+    },
+    {
+      "name": "Accessories Store",
+      "id": "185127444860544"
+    },
+    {
+      "name": "Accountant",
+      "id": "139976092733827"
+    },
+    {
+      "name": "Active Life",
+      "id": "211799228831980"
+    },
+    {
+      "name": "Acupuncture",
+      "id": "121549447920861"
+    },
+    {
+      "name": "Addiction Resources",
+      "id": "187062101324297"
+    },
+    {
+      "name": "Admissions Training",
+      "id": "163917800330437"
+    },
+    {
+      "name": "Adoption Service",
+      "id": "193245447371023"
+    },
+    {
+      "name": "Adult Education",
+      "id": "127610667306994"
+    },
+    {
+      "name": "Adult Entertainment",
+      "id": "187623434605561"
+    },
+    {
+      "name": "Advertising Agency",
+      "id": "164886566892249"
+    },
+    {
+      "name": "Advertising Service",
+      "id": "163272113725616"
+    },
+    {
+      "name": "Afghani Restaurant",
+      "id": "121058704635534"
+    },
+    {
+      "name": "African Methodist Episcopal Church",
+      "id": "141538499244285"
+    },
+    {
+      "name": "African Restaurant",
+      "id": "171226896258682"
+    },
+    {
+      "name": "Agricultural Service",
+      "id": "189323644423254"
+    },
+    {
+      "name": "AIDS Resources",
+      "id": "169421023103905"
+    },
+    {
+      "name": "Airline",
+      "id": "110192549061839"
+    },
+    {
+      "name": "Airline Industry Services",
+      "id": "180428515332153"
+    },
+    {
+      "name": "Airport Lounge",
+      "id": "223760917681177"
+    },
+    {
+      "name": "Airport Shuttle",
+      "id": "170817119631096"
+    },
+    {
+      "name": "Airport Terminal",
+      "id": "177950465654024"
+    },
+    {
+      "name": "Allergist",
+      "id": "181044611932826"
+    },
+    {
+      "name": "Allergy Doctor",
+      "id": "210079735671721"
+    },
+    {
+      "name": "Alternative & Holistic Health",
+      "id": "357645644269220"
+    },
+    {
+      "name": "Ambulance & Rescue",
+      "id": "163102447071743"
+    },
+    {
+      "name": "American Restaurant",
+      "id": "149803325077018"
+    },
+    {
+      "name": "Amusement",
+      "id": "124994474239211"
+    },
+    {
+      "name": "Amusement Park Ride",
+      "id": "220626791295805"
+    },
+    {
+      "name": "Anglican Church",
+      "id": "139801652749645"
+    },
+    {
+      "name": "Animal Shelter",
+      "id": "170810676298376"
+    },
+    {
+      "name": "Antique Store",
+      "id": "150732438316813"
+    },
+    {
+      "name": "Antiques & Vintage",
+      "id": "417935738217839"
+    },
+    {
+      "name": "Apartment & Condo Building",
+      "id": "181216025249367"
+    },
+    {
+      "name": "Apostolic Church",
+      "id": "199448423406078"
+    },
+    {
+      "name": "Appliances",
+      "id": "124617867610922"
+    },
+    {
+      "name": "Appraiser",
+      "id": "187852234570429"
+    },
+    {
+      "name": "Arcade",
+      "id": "164409566941435"
+    },
+    {
+      "name": "Archaeological Services",
+      "id": "176393675739023"
+    },
+    {
+      "name": "Archery",
+      "id": "170715949640891"
+    },
+    {
+      "name": "Architect",
+      "id": "144835265576678"
+    },
+    {
+      "name": "Argentine Restaurant",
+      "id": "205735146122517"
+    },
+    {
+      "name": "Armed Forces",
+      "id": "188166377871384"
+    },
+    {
+      "name": "Armored Cars",
+      "id": "192068767488407"
+    },
+    {
+      "name": "Aromatherapy",
+      "id": "259030350843802"
+    },
+    {
+      "name": "Art Gallery",
+      "id": "197384240287028"
+    },
+    {
+      "name": "Art Museum",
+      "id": "384382644921530"
+    },
+    {
+      "name": "Art Restoration",
+      "id": "109499672460251"
+    },
+    {
+      "name": "Art School",
+      "id": "164288046954643"
+    },
+    {
+      "name": "Artistic Services",
+      "id": "199732070036794"
+    },
+    {
+      "name": "Arts & Crafts Supply Store",
+      "id": "153635828025130"
+    },
+    {
+      "name": "Arts & Marketing",
+      "id": "367960506579477"
+    },
+    {
+      "name": "Asian Fusion Restaurant",
+      "id": "174201535963762"
+    },
+    {
+      "name": "Asian Restaurant",
+      "id": "185855984789970"
+    },
+    {
+      "name": "Assembly of God",
+      "id": "186312161401260"
+    },
+    {
+      "name": "Athletic Education",
+      "id": "139495282781502"
+    },
+    {
+      "name": "ATVs & Golf Carts",
+      "id": "140465079350430"
+    },
+    {
+      "name": "Auction House",
+      "id": "192422584121096"
+    },
+    {
+      "name": "Audiologist",
+      "id": "199024153446160"
+    },
+    {
+      "name": "Audiovisual Equipment",
+      "id": "198632653485894"
+    },
+    {
+      "name": "Auditorium",
+      "id": "203246076360322"
+    },
+    {
+      "name": "Auto Body Shop",
+      "id": "188462984509706"
+    },
+    {
+      "name": "Auto Glass",
+      "id": "153084451411848"
+    },
+    {
+      "name": "Automation Services",
+      "id": "153535891368765"
+    },
+    {
+      "name": "Automobile Leasing",
+      "id": "134088753324121"
+    },
+    {
+      "name": "Automotive Consultant",
+      "id": "184888278217935"
+    },
+    {
+      "name": "Automotive Customizing",
+      "id": "186712678028215"
+    },
+    {
+      "name": "Automotive Manufacturing",
+      "id": "188620891159326"
+    },
+    {
+      "name": "Automotive Parts & Accessories",
+      "id": "139492049448901"
+    },
+    {
+      "name": "Automotive Repair",
+      "id": "149998721725634"
+    },
+    {
+      "name": "Automotive Restoration",
+      "id": "124718197599943"
+    },
+    {
+      "name": "Automotive Storage",
+      "id": "196516643707440"
+    },
+    {
+      "name": "Automotive Trailer Services",
+      "id": "180913165284066"
+    },
+    {
+      "name": "Automotive Wholesaler",
+      "id": "192507514101309"
+    },
+    {
+      "name": "Aviation Fuel",
+      "id": "188317157856409"
+    },
+    {
+      "name": "Aviation School",
+      "id": "186032081419494"
+    },
+    {
+      "name": "Awnings & Canopies",
+      "id": "189183707768885"
+    },
+    {
+      "name": "Babysitter",
+      "id": "212086618801415"
+    },
+    {
+      "name": "Bail Bonds",
+      "id": "161785987204191"
+    },
+    {
+      "name": "Bakery",
+      "id": "187827497907070"
+    },
+    {
+      "name": "Bands & Musicians",
+      "id": "180164648685982"
+    },
+    {
+      "name": "Bank",
+      "id": "133576170041936"
+    },
+    {
+      "name": "Bank Equipment & Service",
+      "id": "128816990522299"
+    },
+    {
+      "name": "Bankruptcy Lawyer",
+      "id": "179702475405145"
+    },
+    {
+      "name": "Baptist Church",
+      "id": "199819723365845"
+    },
+    {
+      "name": "Bar & Grill",
+      "id": "233804719972590"
+    },
+    {
+      "name": "Barbecue Restaurant",
+      "id": "150534008338515"
+    },
+    {
+      "name": "Barber Shop",
+      "id": "169758603141095"
+    },
+    {
+      "name": "Bartending Service",
+      "id": "191612347546618"
+    },
+    {
+      "name": "Basque Restaurant",
+      "id": "191373750905077"
+    },
+    {
+      "name": "Batting Cage",
+      "id": "199544366729511"
+    },
+    {
+      "name": "Beach",
+      "id": "199165013440146"
+    },
+    {
+      "name": "Beach Resort",
+      "id": "199734546726648"
+    },
+    {
+      "name": "Beauty Salon",
+      "id": "199236533423806"
+    },
+    {
+      "name": "Bed and Breakfast",
+      "id": "110321355709642"
+    },
+    {
+      "name": "Beer Garden",
+      "id": "203743122984241"
+    },
+    {
+      "name": "Belgian Restaurant",
+      "id": "113581542055311"
+    },
+    {
+      "name": "Big Box Retailer",
+      "id": "209535879087405"
+    },
+    {
+      "name": "Bike Rental & Bike Share",
+      "id": "433034116710064"
+    },
+    {
+      "name": "Bike Shop",
+      "id": "128003127270269"
+    },
+    {
+      "name": "Bingo Hall",
+      "id": "121321524611296"
+    },
+    {
+      "name": "Biotechnology",
+      "id": "150148928375567"
+    },
+    {
+      "name": "Blinds & Curtains",
+      "id": "197154743629294"
+    },
+    {
+      "name": "Blood Bank",
+      "id": "186236611410712"
+    },
+    {
+      "name": "Boat Dealer",
+      "id": "124886030917279"
+    },
+    {
+      "name": "Boat Rental",
+      "id": "170474162998885"
+    },
+    {
+      "name": "Boat Service",
+      "id": "163431627040738"
+    },
+    {
+      "name": "Boating",
+      "id": "139141179489281"
+    },
+    {
+      "name": "Book & Magazine Distribution",
+      "id": "161467220570897"
+    },
+    {
+      "name": "Borough",
+      "id": "423120631108780"
+    },
+    {
+      "name": "Bowling Alley",
+      "id": "182582091788254"
+    },
+    {
+      "name": "Brazilian Restaurant",
+      "id": "185459711490789"
+    },
+    {
+      "name": "Breakfast & Brunch Restaurant",
+      "id": "192108214153222"
+    },
+    {
+      "name": "Brewery",
+      "id": "144535972273084"
+    },
+    {
+      "name": "Bridal Shop",
+      "id": "103446129740239"
+    },
+    {
+      "name": "Bridge",
+      "id": "151969488199865"
+    },
+    {
+      "name": "British Restaurant",
+      "id": "137670789632630"
+    },
+    {
+      "name": "Broadcasting & Media Production",
+      "id": "169056916473899"
+    },
+    {
+      "name": "Brokers & Franchising",
+      "id": "143973032336164"
+    },
+    {
+      "name": "Buddhist Temple",
+      "id": "201230299890531"
+    },
+    {
+      "name": "Buffet Restaurant",
+      "id": "176007949109829"
+    },
+    {
+      "name": "Burger Restaurant",
+      "id": "187425207958280"
+    },
+    {
+      "name": "Burial & Cremation Service",
+      "id": "181108841925391"
+    },
+    {
+      "name": "Burmese Restaurant",
+      "id": "135761909830871"
+    },
+    {
+      "name": "Bus Line",
+      "id": "138456929557798"
+    },
+    {
+      "name": "Bus Station",
+      "id": "144386572288836"
+    },
+    {
+      "name": "Business Center",
+      "id": "139745066094977"
+    },
+    {
+      "name": "Business Consultant",
+      "id": "179672275401610"
+    },
+    {
+      "name": "Business Supply Service",
+      "id": "200209719995975"
+    },
+    {
+      "name": "Butcher",
+      "id": "181564868547915"
+    },
+    {
+      "name": "Cabin",
+      "id": "213629078651577"
+    },
+    {
+      "name": "Cabinets & Countertops",
+      "id": "164274486955790"
+    },
+    {
+      "name": "Cable & Satellite Service",
+      "id": "189487254406544"
+    },
+    {
+      "name": "Cafe",
+      "id": "197871390225897"
+    },
+    {
+      "name": "Cafeteria",
+      "id": "127892053948220"
+    },
+    {
+      "name": "Cajun & Creole Restaurant",
+      "id": "154669644591265"
+    },
+    {
+      "name": "Cambodian Restaurant",
+      "id": "191232370912538"
+    },
+    {
+      "name": "Camera Store",
+      "id": "442121929137652"
+    },
+    {
+      "name": "Camp",
+      "id": "205483332814878"
+    },
+    {
+      "name": "Campground",
+      "id": "187004854667366"
+    },
+    {
+      "name": "Campus Building",
+      "id": "216161991738736"
+    },
+    {
+      "name": "Canadian Restaurant",
+      "id": "202010786573294"
+    },
+    {
+      "name": "Candy Store",
+      "id": "414430838570027"
+    },
+    {
+      "name": "Cantonese Restaurant",
+      "id": "214976388519648"
+    },
+    {
+      "name": "Car Dealership",
+      "id": "131962450204676"
+    },
+    {
+      "name": "Car Parts & Accessories",
+      "id": "182575511780536"
+    },
+    {
+      "name": "Car Rental",
+      "id": "198383950173309"
+    },
+    {
+      "name": "Car Wash & Detailing",
+      "id": "162295707155272"
+    },
+    {
+      "name": "Cargo & Freight",
+      "id": "184395321600410"
+    },
+    {
+      "name": "Caribbean Restaurant",
+      "id": "191765907520539"
+    },
+    {
+      "name": "Carnival Supplies",
+      "id": "153755631345622"
+    },
+    {
+      "name": "Carpenter",
+      "id": "180833545285725"
+    },
+    {
+      "name": "Carpet Cleaner",
+      "id": "210709755608101"
+    },
+    {
+      "name": "Carpet & Flooring Store",
+      "id": "191328180890797"
+    },
+    {
+      "name": "Cash Advance Service",
+      "id": "128197080583700"
+    },
+    {
+      "name": "Casino",
+      "id": "187724814583579"
+    },
+    {
+      "name": "Caterer",
+      "id": "139433292785470"
+    },
+    {
+      "name": "Catholic Church",
+      "id": "175647552480085"
+    },
+    {
+      "name": "Cemetery",
+      "id": "191060874251260"
+    },
+    {
+      "name": "Charismatic Church",
+      "id": "181531718550494"
+    },
+    {
+      "name": "Charity Organization",
+      "id": "226326230802065"
+    },
+    {
+      "name": "Charter Buses",
+      "id": "108512435893415"
+    },
+    {
+      "name": "Cheerleading",
+      "id": "176722429037183"
+    },
+    {
+      "name": "Chemicals & Gasses",
+      "id": "191334714243008"
+    },
+    {
+      "name": "Chicken Restaurant",
+      "id": "110113695730808"
+    },
+    {
+      "name": "Chicken Wings",
+      "id": "197767133603296"
+    },
+    {
+      "name": "Child Care",
+      "id": "181811248521973"
+    },
+    {
+      "name": "Child Protective Services",
+      "id": "162948187091210"
+    }
+  ]
+}

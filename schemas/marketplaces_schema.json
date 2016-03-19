@@ -10,16 +10,16 @@
 		"street": "",
 		"gov_website": "",
 		"location": [,],
-		"merchants": {},
-			{
-		"id": ",",
+		"merchants": {}
+	},
+		"id": "",
 		"hemisphere": "",
-		"name": ",",
-		"city": ",",
-		"state": ",",
-		"country": ",",
-		"street": ",",
-		"gov_website": ",",
+		"name": "",
+		"city": "",
+		"state": "",
+		"country": "",
+		"street": "",
+		"gov_website": "",
 		"location": [,],
 		"merchants": {}
 	}
