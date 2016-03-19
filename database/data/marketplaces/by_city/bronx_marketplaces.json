@@ -113,7 +113,7 @@
   		"id": "",
       "bidNumber": "43",
   		"name": "kingsbridge plaza",
-  		"street": [kingsbridge ave],
+  		"street": ["kingsbridge ave"],
       "neighborhood": ["kingsbridge"],
   		"gov_website": "http://kingsbridgebid.nyc",
   		"location": [-73.895330, 40.862457],
