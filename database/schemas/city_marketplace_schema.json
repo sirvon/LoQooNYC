@@ -1,0 +1,27 @@
+{
+  "continent": "",
+  "city": "",
+  "state": "",
+  "country": "",
+  "utcOffset": "-05:00",
+  "geometry": [],
+	"marketplaces": {
+  	"1":{
+  		"id": "",
+      "name": "",
+  		"bidNumber": "",
+      "neighborhood": "",
+  		"street": "",
+  		"gov_website": "",
+      "location": [],
+      "geometry": [],
+      "merchantDocId": "",
+      "merchantCollection": "",
+      "featuredMerchants": [],
+      "featuredProducts": [],
+      "ghostBlog": "",
+      "twitterHandle":  "",
+      "fbHandle": ""
+  	   }
+    }
+  }
