@@ -1,12 +1,21 @@
 {
+<<<<<<< HEAD
   "continent": "NA",
   "city": "bronx",
   "state": "ny",
   "country": "USA",
+=======
+  "continent": "",
+  "city": "",
+  "state": "",
+  "country": "",
+  "utcOffset": "",
+>>>>>>> 9c8520502a360f855a52d1c01e3b56545e5248db
   "geometry": [],
 	"marketplaces": {
   	"1":{
   		"id": "",
+<<<<<<< HEAD
       "name": "",
   		"bidNumber": "",
       "neighborhood": "",
@@ -16,6 +25,22 @@
       "geometry": [,],
       "merchantsDocId": "",
       "merchantsCollection": ""
+=======
+		 "name": "",
+  		"bidNumber": "",
+      		"neighborhood": "",
+  		"street": "",
+  		"gov_website": "",
+      		"location": [],
+      		"geometry": [],
+      		"merchantDocId": "",
+      		"merchantCollection": "",
+      		"featuredMerchants": [],
+      		"featuredProducts": [],
+      		"ghostBlog": "",
+      		"twitterHandle":  "",
+      		"fbHandle": ""
+>>>>>>> 9c8520502a360f855a52d1c01e3b56545e5248db
   	   }
     }
   }
