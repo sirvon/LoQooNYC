@@ -81,7 +81,7 @@
 				"street": "white plains rd",
 				"neighborhood": "",
 				"gov_website": "http://www.pelhamparkway.com",
-				"location": [],
+				"location": [-73.867997,40.854272],
 				"geometry": [],
 				"merchantDocId": "",
 				"merchantCollection": "bronx_whiteplainssquare_merchants",
