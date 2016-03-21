@@ -7,7 +7,6 @@
 	"utcOffset": "-05:00",
 	"geometry": [],
 	"marketplaces": [{
-			"49": {
 				"id": "",
 				"name": "fordham rd mall",
 				"bidNumber": "49",
@@ -23,9 +22,8 @@
 				"ghostBlog": "",
 				"twitterHandle": "",
 				"fbHandle": ""
-			}
 		},
-		{"16": {
+		{
 			"id": "",
 			"name": "3rd ave hub",
 			"bidNumber": "16",
@@ -41,8 +39,8 @@
 			"ghostBlog": "",
 			"twitterHandle": "",
 			"fbHandle": ""
-		}},
-		{"51": {
+		},
+		{
 				"id": "",
 				"name": "stadium galleria",
 				"bidNumber": "51",
@@ -59,7 +57,7 @@
 				"twitterHandle": "",
 				"fbHandle": ""
 			},
-			"36": {
+			{
 				"id": "",
 				"name": "jerome-gunhill rd mall",
 				"bidNumber": "36",
@@ -75,8 +73,8 @@
 				"ghostBlog": "",
 				"twitterHandle": "",
 				"fbHandle": ""
-			}}, {
-			"31": {
+			}, {
+
 				"id": "",
 				"name": "white plains square",
 				"bidNumber": "31",
@@ -92,8 +90,8 @@
 				"ghostBlog": "",
 				"twitterHandle": "",
 				"fbHandle": ""
-			}}, {
-			"61": {
+			}, {
+
 				"id": "",
 				"bidNumber": "61",
 				"name": "little italy of the bronx",
@@ -109,9 +107,9 @@
 				"ghostBlog": "",
 				"twitterHandle": "",
 				"fbHandle": ""
-			}
+
 		}, {
-			"43": {
+
 				"id": "",
 				"bidNumber": "43",
 				"name": "kingsbridge plaza",
@@ -127,9 +125,8 @@
 				"ghostBlog": "",
 				"twitterHandle": "",
 				"fbHandle": ""
-			}
 		}, {
-			"59": {
+
 				"id": "",
 				"bidNumber": "59",
 				"name": "southern blvd mall",
@@ -145,9 +142,7 @@
 				"ghostBlog": "",
 				"twitterHandle": "",
 				"fbHandle": ""
-			}
 		}, {
-			"67": {
 				"id": "",
 				"bidNumber": "67",
 				"name": "westchester square",
@@ -163,7 +158,6 @@
 				"ghostBlog": "",
 				"twitterHandle": "",
 				"fbHandle": ""
-			}
 		}
 ]
 }
